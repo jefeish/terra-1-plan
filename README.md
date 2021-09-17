@@ -1,5 +1,7 @@
 # terra-1-plan
 
+Note: Run every command from within the `terra-1-plan` repo.
+
 - Initialize
 
 ```
